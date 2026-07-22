@@ -12,9 +12,17 @@ Studied the foundational building blocks of a RAG pipeline and implemented small
 - **Why not just feed everything to the LLM?**: limited context windows, cost, and irrelevant information degrading answer quality.
 - **Vector databases**: conceptually, how tools like Chroma of FAISS allow fast similarity search over large numbers of embeddings.
 
+### Part 2 - Data Collection & Chunking
+Collected raw health information and prepared it for retrieval.
+
+- **Data collection**: gathered health topic descriptions (e.g. diabetes, asthma) from reliable sources and saved them as structured JSON records, each containing a 'source' and 'text' field ('data/health_data.json').
+- **Chunking**: implemented a script ('chunk_data.py') that splits each record's text into smaller paragraph-level chunks, preserving the original source for each chunk. Since the collected text entries were kept short for testing purposes, each entry was saved as a single chunk (no further splitting was needed).
+- **Why chunking matters**: embedding models represent shorter, focused pieces of text more accurately than long documents, so breaking text into meaningful chunks improves retrieval quality later.
+
 ## Tech Stack (planned)
 - Python
 - Gemini API
 - sentence-transformers (embeddings)
+- JSON (structured data storage)
 - Chroma (vector database)
 - Streamlit or Flask (interface)
