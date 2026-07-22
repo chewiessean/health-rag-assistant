@@ -1,52 +1,62 @@
 [
   {
-    "topic": "diabetes",
+    "source": "diabetes",
     "url": "https://medlineplus.gov/ency/article/001214.htm",
+    "chunk_id": "diabetes_0",
     "text": "Diabetes is a long-term (chronic) disease in which the body cannot regulate the amount of sugar in the blood."
   },
   {
-    "topic": "diabetes_type2",
+    "source": "diabetes_type2",
     "url": "https://medlineplus.gov/ency/article/000313.htm",
+    "chunk_id": "diabetes_type2_0",
     "text": "Type 2 diabetes is a lifelong ( chronic ) disease in which there is a high level of sugar (glucose) in the blood. Type 2 diabetes is the most common form of diabetes."
   },
   {
-    "topic": "flu",
+    "source": "flu",
     "url": "https://medlineplus.gov/ency/article/000080.htm",
+    "chunk_id": "flu_0",
     "text": "The flu (influenza) is a viral respiratory illness that causes fever, chills, runny nose, body aches, and cough. It spreads easily from person to person. The flu can cause moderate to severe symptoms. Most people recover fully. Children, older adults, and people with certain health conditions are at risk for severe illness and even death."
   },
   {
-    "topic": "asthma",
+    "source": "asthma",
     "url": "https://medlineplus.gov/ency/article/000141.htm",
+    "chunk_id": "asthma_0",
     "text": "Asthma is a chronic disease that causes the airways of the lungs to swell and become narrow. It leads to breathing difficulty such as wheezing, shortness of breath, chest tightness, and coughing."
   },
   {
-    "topic": "anemia",
+    "source": "anemia",
     "url": "https://medlineplus.gov/ency/article/000560.htm",
+    "chunk_id": "anemia_0",
     "text": "Anemia is a condition in which the body does not have enough healthy red blood cells. Red blood cells provide oxygen to body tissues. Different types of anemia include: Anemia due to vitamin B12 deficiency Anemia due to folate (folic acid) deficiency Anemia due to iron deficiency Anemia of chronic disease Hemolytic anemia Idiopathic aplastic anemia Megaloblastic anemia Pernicious anemia Sickle cell anemia Thalassemia Iron deficiency anemia is the most common type of anemia."
   },
   {
-    "topic": "migraine",
+    "source": "migraine",
     "url": "https://medlineplus.gov/ency/article/000709.htm",
+    "chunk_id": "migraine_0",
     "text": "A migraine is a type of headache. It may occur with symptoms such as nausea, vomiting, or sensitivity to light and sound. In most people, a throbbing pain is felt only on one side of the head."
   },
   {
-    "topic": "obesity",
+    "source": "obesity",
     "url": "https://medlineplus.gov/ency/article/007297.htm",
+    "chunk_id": "obesity_0",
     "text": "Obesity means weighing more than what is healthy for a given height. Obesity is a serious, chronic disease. It can lead to other health problems, including diabetes, heart disease, and some cancers."
   },
   {
-    "topic": "sinusitis",
+    "source": "sinusitis",
     "url": "https://medlineplus.gov/ency/article/000647.htm",
+    "chunk_id": "sinusitis_0",
     "text": "Sinusitis is present when the tissue lining the sinuses become swollen or inflamed. It occurs as the result of an inflammatory reaction or an infection from a virus, bacteria, or fungus."
   },
   {
-    "topic": "arrhythmias",
+    "source": "arrhythmias",
     "url": "https://medlineplus.gov/ency/article/001101.htm",
+    "chunk_id": "arrhythmias_0",
     "text": "An arrhythmia is a disorder of the heart rate (pulse) or heart rhythm. The heart can beat too fast (tachycardia), too slow (bradycardia), or irregularly. An arrhythmia can be harmless, a sign of other heart problems, or an immediate danger to your health."
   },
   {
-    "topic": "epilepsy",
+    "source": "epilepsy",
     "url": "https://medlineplus.gov/ency/article/000694.htm",
+    "chunk_id": "epilepsy_0",
     "text": "Epilepsy is a brain disorder in which a person has repeated seizures over time. Seizures are episodes of uncontrolled and abnormal electrical activity of brain cells that may cause changes in attention or behavior, such as bodily movements."
   }
 ]
