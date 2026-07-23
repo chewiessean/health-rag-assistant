@@ -19,6 +19,12 @@ Collected raw health information and prepared it for retrieval.
 - **Chunking**: implemented a script ('chunk_data.py') that splits each record's text into smaller paragraph-level chunks, preserving the original source for each chunk. Since the collected text entries were kept short for testing purposes, each entry was saved as a single chunk (no further splitting was needed).
 - **Why chunking matters**: embedding models represent shorter, focused pieces of text more accurately than long documents, so breaking text into meaningful chunks improves retrieval quality later.
 
+### Part 3 - Vector Store & First Retrieval
+Set up the retrieval side of the pipeline:
+
+- **Vector store**: installed and configured Chroma, then embedded each chunk from Part 2 and stored it alongside its text and source metadata ('embed_and_store.py').
+-  **First retrieval test**: queried the vector store with a sample question and retrieved the most similar chunks ('retrieval_test.py'). Results were reasonable but limited, since the dataset is still small and entries were kept short for testing - this will improve as the dataset grows.
+
 ## Tech Stack (planned)
 - Python
 - Gemini API
