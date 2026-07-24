@@ -12,7 +12,7 @@ texts = [chunk["text"] for chunk in chunks]
 embeddings = model.encode(texts)
 print(f"Generated {len(embeddings)} embeddings, each with {embeddings.shape[1]} dimensions.")
 
-client = chromadb.PersistentClient(path="./chromadb")
+client = chromadb.PersistentClient(path="./chroma_db")
 collection = client.get_or_create_collection(name="health_articles")
 
 ids = [chunk["chunk_id"] for chunk in chunks]

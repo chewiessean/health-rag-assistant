@@ -18,6 +18,8 @@ urls = {
 
 headers = {"User-Agent": "Mozilla/5.0 (educational student project)"}
 
+wanted_titles = ["Symptoms", "Causes", "Prevention", "Treatment"]
+
 collected_data = []
 
 for topic, url in urls.items():
@@ -29,18 +31,34 @@ for topic, url in urls.items():
 
     soup = BeautifulSoup(response.text, "html.parser")
 
-    content_div = soup.find("div", {"id": "ency_summary"})
+    summary_div = soup.find("div", {"id": "ency_summary"})
+    summary_text = summary_div.get_text(separator=" ", strip=True) if summary_div else ""
 
-    if content_div:
-        text = content_div.get_text(separator=" ", strip=True)
-        collected_data.append({"topic": topic, "url": url, "text": text})
-        print(f"+ {topic}: collected {len(text)} characters")
+    extra_parts = []
+    sections = soup.find_all("div", {"class": "section"})
+
+    for section in sections:
+        title_tag = section.find("h2")
+        if title_tag and title_tag.get_text(strip=True) in wanted_titles:
+            body = section.find("div", {"class": "section-body"})
+            if body:
+                title = title_tag.get_text(strip=True)
+                content = body.get_text(separator=" ", strip=True)
+                extra_parts.append(f"{title}: {content}")
+
+    full_text = summary_text
+    if extra_parts:
+        full_text += " " + " ".join(extra_parts)
+
+    if full_text:
+        collected_data.append({"source": topic, "url": url, "text": full_text})
+        print(f"+ {topic}: collected {len(full_text)} characters ({len(extra_parts)} extra sections found)")
     else:
-        print(f"- {topic}: content block not found, check the HTML structure")
+        print(f"- {topic}: no content found, check the HTML structure")
 
     time.sleep(1)
 
-with open("health_data.json", "w", encoding="utf-8") as f:
+with open("data/health_data.json", "w", encoding="utf-8") as f:
     json.dump(collected_data, f, ensure_ascii=False, indent=2)
 
 print(f"\nTotal {len(collected_data)} topics saved.")

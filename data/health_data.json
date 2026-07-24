@@ -3,60 +3,792 @@
     "source": "diabetes",
     "url": "https://medlineplus.gov/ency/article/001214.htm",
     "chunk_id": "diabetes_0",
-    "text": "Diabetes is a long-term (chronic) disease in which the body cannot regulate the amount of sugar in the blood."
+    "text": "Diabetes is a long-term (chronic) disease in which the body cannot regulate the amount of sugar in the blood. Causes: Insulin is a hormone produced by the pancreas to control blood sugar. Diabetes can be caused by too little insulin, resistance to the action of insulin, or both. To understand diabetes, it is important to first understand the normal process by which food is broken down and used by the body for energy. Several things happen when food is digested and absorbed: A sugar called glucose enters the bloodstream. Glucose is a source of fuel for the body. An organ"
+  },
+  {
+    "source": "diabetes",
+    "url": "https://medlineplus.gov/ency/article/001214.htm",
+    "chunk_id": "diabetes_1",
+    "text": "and absorbed: A sugar called glucose enters the bloodstream. Glucose is a source of fuel for the body. An organ in the upper abdomen, below and behind the stomach, called the pancreas makes insulin. The role of insulin is to move glucose from the bloodstream into muscle, fat, and other cells, where it can be stored or used as fuel. People with diabetes have high blood sugar because their body cannot move sugar from the blood into muscle and fat cells to be burned or stored for energy, or because their liver makes too much glucose and releases it into"
+  },
+  {
+    "source": "diabetes",
+    "url": "https://medlineplus.gov/ency/article/001214.htm",
+    "chunk_id": "diabetes_2",
+    "text": "cells to be burned or stored for energy, or because their liver makes too much glucose and releases it into the blood. This is because: Their pancreas does not make enough insulin Their cells do not respond to insulin normally (also called insulin resistance) Both of the above There are two major types of diabetes. The causes and risk factors are different for each type: Type 1 diabetes is less common, accounting for 5% to 10% of people with diabetes in the United States. It can occur at any age, but it is most often diagnosed in children, teens, or"
+  },
+  {
+    "source": "diabetes",
+    "url": "https://medlineplus.gov/ency/article/001214.htm",
+    "chunk_id": "diabetes_3",
+    "text": "in the United States. It can occur at any age, but it is most often diagnosed in children, teens, or young adults. In this disease, the body makes little or no insulin. This is because the pancreas cells that make insulin are damaged by an immune process and stop working. Daily injections of insulin are needed. The exact cause of the immune process is unknown. Type 2 diabetes is more common, accounting for 90% to 95% of people with diabetes in the United States. It most often occurs in adulthood, but because of high obesity rates, children and teens are"
+  },
+  {
+    "source": "diabetes",
+    "url": "https://medlineplus.gov/ency/article/001214.htm",
+    "chunk_id": "diabetes_4",
+    "text": "in the United States. It most often occurs in adulthood, but because of high obesity rates, children and teens are now being diagnosed with this disease. Some people with type 2 diabetes do not know they have it. With type 2 diabetes, the body is resistant to insulin and doesn't use insulin as well as it should. Not all people with type 2 diabetes are overweight or obese. There are other causes of diabetes, and some people cannot be classified as type 1 or type 2. Examples include LADA (latent autoimmune diabetes in adults, a variant of type 1 diabetes),"
+  },
+  {
+    "source": "diabetes",
+    "url": "https://medlineplus.gov/ency/article/001214.htm",
+    "chunk_id": "diabetes_5",
+    "text": "as type 1 or type 2. Examples include LADA (latent autoimmune diabetes in adults, a variant of type 1 diabetes), MODY (maturity-onset diabetes of the young), and diabetes due to other illnesses. Gestational diabetes is diagnosed when high blood sugar develops at any time during pregnancy in a woman who does not already have diabetes. If your parent, brother, or sister has diabetes, you are more likely to develop the disease. Symptoms: A high blood sugar level can cause several symptoms, including: Blurry vision Excess thirst Fatigue Frequent urination Hunger Weight loss Because type 2 diabetes develops slowly, some people"
+  },
+  {
+    "source": "diabetes",
+    "url": "https://medlineplus.gov/ency/article/001214.htm",
+    "chunk_id": "diabetes_6",
+    "text": "symptoms, including: Blurry vision Excess thirst Fatigue Frequent urination Hunger Weight loss Because type 2 diabetes develops slowly, some people with high blood sugar have no symptoms. Symptoms of type 1 diabetes typically develop over a short period, usually weeks to months. People may be very sick by the time they are diagnosed. After many years, diabetes can lead to other serious problems. These problems are known as diabetes complications, and include: Eye problems , including trouble seeing (especially at night), light sensitivity, cataracts, and blindness Sores and infections of the toe, foot, or leg, which if untreated, can require"
+  },
+  {
+    "source": "diabetes",
+    "url": "https://medlineplus.gov/ency/article/001214.htm",
+    "chunk_id": "diabetes_7",
+    "text": "night), light sensitivity, cataracts, and blindness Sores and infections of the toe, foot, or leg, which if untreated, can require amputation of the affected area Damage to nerves in the body , causing pain, tingling, a loss of feeling, problems digesting food, and erectile dysfunction Kidney problems , which can lead to kidney failure Weakened immune system, which can lead to more frequent infections Increased chance of having a heart attack or stroke Treatment: Type 2 diabetes can sometimes be reversed with lifestyle changes, especially losing weight with exercise and by eating different foods. Some cases of type 2 diabetes"
+  },
+  {
+    "source": "diabetes",
+    "url": "https://medlineplus.gov/ency/article/001214.htm",
+    "chunk_id": "diabetes_8",
+    "text": "reversed with lifestyle changes, especially losing weight with exercise and by eating different foods. Some cases of type 2 diabetes can also be improved with weight loss surgery. There is no cure for type 1 diabetes (except for a pancreas or islet cell transplant). Treating either type 1 diabetes or type 2 diabetes involves nutrition, activity and medicines to control blood sugar level. Everyone with diabetes should receive proper education and support about the best ways to manage their diabetes. Ask your provider about seeing a certified diabetes care and education specialist (CDCES). Getting better control over your blood sugar,"
+  },
+  {
+    "source": "diabetes",
+    "url": "https://medlineplus.gov/ency/article/001214.htm",
+    "chunk_id": "diabetes_9",
+    "text": "Ask your provider about seeing a certified diabetes care and education specialist (CDCES). Getting better control over your blood sugar, cholesterol, and blood pressure levels helps reduce the risk for kidney disease, eye disease, nervous system disease, heart attack, and stroke. To minimize diabetes complications, visit your provider at least 2 to 4 times a year. Talk about any problems you are having. Follow your provider's instructions on managing your diabetes. Prevention: Keeping an ideal body weight and an active lifestyle may prevent or delay the start of type 2 diabetes. If you're overweight, losing just 5% of your body"
+  },
+  {
+    "source": "diabetes",
+    "url": "https://medlineplus.gov/ency/article/001214.htm",
+    "chunk_id": "diabetes_10",
+    "text": "lifestyle may prevent or delay the start of type 2 diabetes. If you're overweight, losing just 5% of your body weight can reduce your risk. Some medicines can also be used to delay or prevent the start of type 2 diabetes. At this time, type 1 diabetes cannot be prevented. But there is promising research that shows type 1 diabetes may be delayed in some high risk people."
   },
   {
     "source": "diabetes_type2",
     "url": "https://medlineplus.gov/ency/article/000313.htm",
     "chunk_id": "diabetes_type2_0",
-    "text": "Type 2 diabetes is a lifelong ( chronic ) disease in which there is a high level of sugar (glucose) in the blood. Type 2 diabetes is the most common form of diabetes."
+    "text": "Type 2 diabetes is a lifelong ( chronic ) disease in which there is a high level of sugar (glucose) in the blood. Type 2 diabetes is the most common form of diabetes. Causes: Insulin is a hormone produced in the pancreas by special cells, called beta cells. The pancreas is below and behind the stomach. Insulin is needed to move glucose into cells. Inside the cells, glucose is stored and later used for energy. When you have type 2 diabetes, your fat, liver, and muscle cells do not respond correctly to insulin. This is called insulin resistance. As a"
+  },
+  {
+    "source": "diabetes_type2",
+    "url": "https://medlineplus.gov/ency/article/000313.htm",
+    "chunk_id": "diabetes_type2_1",
+    "text": "diabetes, your fat, liver, and muscle cells do not respond correctly to insulin. This is called insulin resistance. As a result, glucose does not get into these cells to be stored for energy. When sugar cannot enter cells, a high level of sugar builds up in the blood. This is called hyperglycemia. The body is unable to use the glucose for energy. This leads to the symptoms of type 2 diabetes. Type 2 diabetes usually develops slowly over time. Many people with the disease are overweight or obese when they are diagnosed. Increased fat makes it harder for your body"
+  },
+  {
+    "source": "diabetes_type2",
+    "url": "https://medlineplus.gov/ency/article/000313.htm",
+    "chunk_id": "diabetes_type2_2",
+    "text": "people with the disease are overweight or obese when they are diagnosed. Increased fat makes it harder for your body to use insulin the correct way. Type 2 diabetes can also develop in people who are not overweight or obese. This is more common in older adults. Family history and genes play a role in type 2 diabetes. Low activity level, poor diet, and excess body weight around the waist increase your chance of getting the disease. Symptoms: People with type 2 diabetes often have no symptoms at first. They may not have symptoms for many years. Some people who"
+  },
+  {
+    "source": "diabetes_type2",
+    "url": "https://medlineplus.gov/ency/article/000313.htm",
+    "chunk_id": "diabetes_type2_3",
+    "text": "type 2 diabetes often have no symptoms at first. They may not have symptoms for many years. Some people who have type 2 diabetes that develops slowly already have eye, kidney, or nerve damage when they are first diagnosed. Early symptoms of diabetes caused by a high blood sugar level may include: Bladder, kidney, skin, or other infections that are more frequent or heal slowly Fatigue Hunger Increased thirst Increased urination Blurred vision After many years, diabetes can lead to serious health problems, and as a result, many other complications. Treatment: At first, the goal of treatment is to lower"
+  },
+  {
+    "source": "diabetes_type2",
+    "url": "https://medlineplus.gov/ency/article/000313.htm",
+    "chunk_id": "diabetes_type2_4",
+    "text": "serious health problems, and as a result, many other complications. Treatment: At first, the goal of treatment is to lower your high blood glucose level. Long-term goals are to prevent complications. These are health problems that can result from having diabetes. The most important lifestyle approach to treating and managing type 2 diabetes is by being active and eating healthy foods. Everyone with diabetes should receive proper education and support about the best ways to manage their diabetes. Ask your provider about seeing a certified diabetes care and education specialist (CDCES) and a dietitian. LEARN THESE SKILLS Learning diabetes management"
+  },
+  {
+    "source": "diabetes_type2",
+    "url": "https://medlineplus.gov/ency/article/000313.htm",
+    "chunk_id": "diabetes_type2_5",
+    "text": "provider about seeing a certified diabetes care and education specialist (CDCES) and a dietitian. LEARN THESE SKILLS Learning diabetes management skills will help you live well with diabetes. These skills help prevent health problems and the need for medical care. Skills include: How to test and record your blood glucose What, when, and how much to eat How to safely increase your activity and control your weight How to take medicines, if needed How to recognize and treat low and high blood sugar How to handle sick days Where to buy diabetes supplies and how to store them It may"
+  },
+  {
+    "source": "diabetes_type2",
+    "url": "https://medlineplus.gov/ency/article/000313.htm",
+    "chunk_id": "diabetes_type2_6",
+    "text": "high blood sugar How to handle sick days Where to buy diabetes supplies and how to store them It may take several months to learn these skills. Keep learning about diabetes, its complications, and how to control and live well with the disease. Stay up-to-date on new research and treatments. Make sure you are getting information from trustworthy sources, such as your provider and diabetes educator. MANAGING YOUR BLOOD SUGAR Checking your blood sugar level yourself and writing down the results tells you how well you are managing your diabetes. Talk to your provider and diabetes educator about how often"
+  },
+  {
+    "source": "diabetes_type2",
+    "url": "https://medlineplus.gov/ency/article/000313.htm",
+    "chunk_id": "diabetes_type2_7",
+    "text": "results tells you how well you are managing your diabetes. Talk to your provider and diabetes educator about how often to check. To check your blood sugar level, you use a device called a glucose meter. Usually, you prick your finger with a small needle, called a lancet. This gives you a tiny drop of blood. You place the blood on a test strip and put the strip into the meter. The meter gives you a reading that tells you the level of your blood sugar. Your provider or diabetes educator will help set up a testing schedule for you."
+  },
+  {
+    "source": "diabetes_type2",
+    "url": "https://medlineplus.gov/ency/article/000313.htm",
+    "chunk_id": "diabetes_type2_8",
+    "text": "the level of your blood sugar. Your provider or diabetes educator will help set up a testing schedule for you. Your provider will help you set a target range for your blood sugar numbers. Keep these factors in mind: Most people with type 2 diabetes only need to check their blood sugar once or twice a day. If your blood sugar level is under control, you may only need to check it a few times a week or even less often. You may test yourself when you wake up, before meals, and at bedtime. You may need to test more"
+  },
+  {
+    "source": "diabetes_type2",
+    "url": "https://medlineplus.gov/ency/article/000313.htm",
+    "chunk_id": "diabetes_type2_9",
+    "text": "often. You may test yourself when you wake up, before meals, and at bedtime. You may need to test more often when you are sick or under stress. You may need to test more often if you are having more frequent low blood sugar symptoms. Keep a record of your blood sugar for yourself and your provider. This can often be done most easily using a website designed for this purpose. Based on your numbers, you may need to make changes to your meals, activity, or medicines to keep your blood sugar level in the right range. Always bring your"
+  },
+  {
+    "source": "diabetes_type2",
+    "url": "https://medlineplus.gov/ency/article/000313.htm",
+    "chunk_id": "diabetes_type2_10",
+    "text": "changes to your meals, activity, or medicines to keep your blood sugar level in the right range. Always bring your blood glucose meter to medical appointments so the data can be downloaded and discussed. Your provider may recommend that you use a continuous glucose monitor (CGM) to estimate blood sugar if: You are using insulin injections many times a day You have had an episode of severe low blood sugar Your blood sugar level varies a lot The CGM has a sensor that is inserted just under the skin to measure glucose in your tissue fluid every 5 minutes. HEALTHY"
+  },
+  {
+    "source": "diabetes_type2",
+    "url": "https://medlineplus.gov/ency/article/000313.htm",
+    "chunk_id": "diabetes_type2_11",
+    "text": "a sensor that is inserted just under the skin to measure glucose in your tissue fluid every 5 minutes. HEALTHY EATING AND WEIGHT CONTROL Work closely with your providers to learn how much fat, protein, and carbohydrates you need in your diet. Your meal plans should fit your lifestyle and habits and should include foods that you like. Managing your weight and having a well-balanced diet are important. Some people with type 2 diabetes can stop taking medicines after losing weight. This does not mean that their diabetes is cured. They still have diabetes. People who are obese and whose"
+  },
+  {
+    "source": "diabetes_type2",
+    "url": "https://medlineplus.gov/ency/article/000313.htm",
+    "chunk_id": "diabetes_type2_12",
+    "text": "weight. This does not mean that their diabetes is cured. They still have diabetes. People who are obese and whose diabetes is not well managed with diet and medicine may consider weight loss (bariatric) surgery . REGULAR PHYSICAL ACTIVITY Regular activity is important for everyone. It is even more important when you have diabetes. Exercise is good for your health because it: Lowers your blood sugar level without medicine Burns extra calories and fat to help manage your weight Improves blood flow and blood pressure Increases your energy level Improves your ability to handle stress Talk to your provider before"
+  },
+  {
+    "source": "diabetes_type2",
+    "url": "https://medlineplus.gov/ency/article/000313.htm",
+    "chunk_id": "diabetes_type2_13",
+    "text": "blood flow and blood pressure Increases your energy level Improves your ability to handle stress Talk to your provider before starting any exercise program. People with type 2 diabetes may need to take special steps before, during, and after physical activity or exercise, including adjusting doses of insulin if needed. MEDICINES TO TREAT DIABETES If diet and exercise do not help keep your blood sugar at normal or near-normal levels, your provider may prescribe medicine. Since these medicines help lower your blood sugar level in different ways, your provider may have you take more than one medicine. Some of the"
+  },
+  {
+    "source": "diabetes_type2",
+    "url": "https://medlineplus.gov/ency/article/000313.htm",
+    "chunk_id": "diabetes_type2_14",
+    "text": "your blood sugar level in different ways, your provider may have you take more than one medicine. Some of the most common types of medicines are listed below. They are taken by mouth or injection. Alpha-glucosidase inhibitors Biguanides Bile acid sequestrants DPP-4 inhibitors Injectable medicines (GLP-1 agonists or insulin) Meglitinides SGLT2 inhibitors Sulfonylureas Thiazolidinediones You may need to take insulin if your blood sugar cannot be controlled with other medicines. Most commonly, insulin is injected under the skin using a syringe, insulin pen, or pump. Another form of insulin is the inhaled type. Insulin cannot be taken by mouth because"
+  },
+  {
+    "source": "diabetes_type2",
+    "url": "https://medlineplus.gov/ency/article/000313.htm",
+    "chunk_id": "diabetes_type2_15",
+    "text": "syringe, insulin pen, or pump. Another form of insulin is the inhaled type. Insulin cannot be taken by mouth because the acid in the stomach destroys the insulin. PREVENTING COMPLICATIONS Your provider may prescribe medicines or other treatments to reduce your chance of developing some of the more common complications of diabetes , including: Eye disease Kidney disease Heart disease and stroke FOOT CARE People with diabetes are more likely than those without diabetes to have foot problems . Diabetes damages the nerves. This can make your feet less able to feel pressure, pain, heat, or cold. You may not"
+  },
+  {
+    "source": "diabetes_type2",
+    "url": "https://medlineplus.gov/ency/article/000313.htm",
+    "chunk_id": "diabetes_type2_16",
+    "text": "damages the nerves. This can make your feet less able to feel pressure, pain, heat, or cold. You may not notice a foot injury until you have severe damage to the skin and tissue below, or you get a severe infection. Diabetes can also damage blood vessels. Small sores or breaks in the skin may become deeper skin sores (ulcers). The affected limb may need to be amputated if these skin ulcers do not heal or become larger, deeper, or infected. To prevent problems with your feet: Stop using tobacco , if you use it. Improve control of your blood"
+  },
+  {
+    "source": "diabetes_type2",
+    "url": "https://medlineplus.gov/ency/article/000313.htm",
+    "chunk_id": "diabetes_type2_17",
+    "text": "infected. To prevent problems with your feet: Stop using tobacco , if you use it. Improve control of your blood sugar. Get a foot exam by your provider at least once a year to learn if you have nerve damage. Ask your provider to check your feet for problems such as calluses, bunions or hammertoes. These need to be treated to prevent skin breakdown and ulcers. Check and care for your feet every day. This is very important when you already have nerve or blood vessel damage or foot problems. Treat minor infections, such as athlete's foot, right away. Use"
+  },
+  {
+    "source": "diabetes_type2",
+    "url": "https://medlineplus.gov/ency/article/000313.htm",
+    "chunk_id": "diabetes_type2_18",
+    "text": "already have nerve or blood vessel damage or foot problems. Treat minor infections, such as athlete's foot, right away. Use moisturizing lotion on dry skin. Make sure you wear the right kind of shoes. Ask your provider what type of shoe is right for you. EMOTIONAL HEALTH Living with diabetes is often stressful at times. You may feel overwhelmed by everything you need to do to manage your diabetes. But taking care of your emotional health is just as important as your physical health. Ways to relieve stress include: Listening to relaxing music Meditating to take your mind off your"
+  },
+  {
+    "source": "diabetes_type2",
+    "url": "https://medlineplus.gov/ency/article/000313.htm",
+    "chunk_id": "diabetes_type2_19",
+    "text": "as your physical health. Ways to relieve stress include: Listening to relaxing music Meditating to take your mind off your worries Deep breathing to help relieve physical tension Doing yoga, tai chi, or progressive relaxation Feeling sad or down (depressed) or anxious sometimes is normal. But if you have these feelings often and they're getting in the way of managing your diabetes, talk with your health care team. They can find ways to help you feel better. People with diabetes should make sure to keep up on their vaccination schedule. Prevention: You can help prevent type 2 diabetes by staying"
+  },
+  {
+    "source": "diabetes_type2",
+    "url": "https://medlineplus.gov/ency/article/000313.htm",
+    "chunk_id": "diabetes_type2_20",
+    "text": "should make sure to keep up on their vaccination schedule. Prevention: You can help prevent type 2 diabetes by staying at a healthy body weight. You can get to a healthy weight by eating healthy foods, controlling your portion sizes, and leading an active lifestyle. Some medicines can also delay or prevent type 2 diabetes in people with prediabetes who are at risk for developing the disease."
   },
   {
     "source": "flu",
     "url": "https://medlineplus.gov/ency/article/000080.htm",
     "chunk_id": "flu_0",
-    "text": "The flu (influenza) is a viral respiratory illness that causes fever, chills, runny nose, body aches, and cough. It spreads easily from person to person. The flu can cause moderate to severe symptoms. Most people recover fully. Children, older adults, and people with certain health conditions are at risk for severe illness and even death."
+    "text": "The flu (influenza) is a viral respiratory illness that causes fever, chills, runny nose, body aches, and cough. It spreads easily from person to person. The flu can cause moderate to severe symptoms. Most people recover fully. Children, older adults, and people with certain health conditions are at risk for severe illness and even death. Causes: The flu is caused by one of several influenza viruses. Most people get the flu when they breathe in tiny airborne droplets from the coughs or sneezes of someone who has the flu. You can also catch the flu if you touch something with"
+  },
+  {
+    "source": "flu",
+    "url": "https://medlineplus.gov/ency/article/000080.htm",
+    "chunk_id": "flu_1",
+    "text": "coughs or sneezes of someone who has the flu. You can also catch the flu if you touch something with the virus on it, and then touch your mouth, nose, or eyes. People often confuse colds , flu, and COVID-19 . They are different, but they do have some of the same symptoms. Most people get a cold several times a year. In contrast, people generally get the flu only once every few years. Cold symptoms tend to be milder compared to the flu and COVID-19. The flu and COVID-19 share many symptoms, so it can be hard to tell"
+  },
+  {
+    "source": "flu",
+    "url": "https://medlineplus.gov/ency/article/000080.htm",
+    "chunk_id": "flu_2",
+    "text": "compared to the flu and COVID-19. The flu and COVID-19 share many symptoms, so it can be hard to tell them apart. The best way to know is to get tested. COVID-19 self-tests are available over-the-counter at most pharmacies. If needed, your health care provider can test you for the flu, COVID-19, and other respiratory infections. The flu spreads easily. It can affect a large group of people in a very short amount of time. For example, students and co-workers often get sick within 2 or 3 weeks of the flu's arrival in a school or workplace. Sometimes, you can"
+  },
+  {
+    "source": "flu",
+    "url": "https://medlineplus.gov/ency/article/000080.htm",
+    "chunk_id": "flu_3",
+    "text": "often get sick within 2 or 3 weeks of the flu's arrival in a school or workplace. Sometimes, you can get a virus that makes you throw up or have diarrhea. Some people call this the \" stomach flu .\" This is a misleading name because this virus is usually not the actual flu. The flu mostly affects your nose, throat, and lungs. While certain people are at a higher risk, anyone at any age can develop serious complications from the flu. Those at highest risk include: People age 65 and older Children younger than 5 years old Women who"
+  },
+  {
+    "source": "flu",
+    "url": "https://medlineplus.gov/ency/article/000080.htm",
+    "chunk_id": "flu_4",
+    "text": "the flu. Those at highest risk include: People age 65 and older Children younger than 5 years old Women who are more than 3 months pregnant Anyone living in a long-term care facility Anyone with chronic heart, lung, or kidney conditions, diabetes, or a weakened immune system People with severe obesity (BMI of 40 or higher) Symptoms: Flu symptoms often start quickly. You can start to feel sick about 1 to 7 days after you come in contact with the virus. Most of the time, symptoms appear within 2 to 3 days. The first symptom is often a fever between"
+  },
+  {
+    "source": "flu",
+    "url": "https://medlineplus.gov/ency/article/000080.htm",
+    "chunk_id": "flu_5",
+    "text": "virus. Most of the time, symptoms appear within 2 to 3 days. The first symptom is often a fever between 100Â°F (37.8Â°C) and 104Â°F (40Â°C) that comes on suddenly. An adult often has a lower fever than a child. But not everyone with the flu has a fever. Other common symptoms include: Body aches Chills Headache Lack of energy Cough Runny or stuffy nose Sneezing Sore throat Nausea, vomiting and diarrhea (more common in children) Fever usually goes away in 3 to 4 days but may last up to 8 days. Other symptoms get better in 7 to 14 days."
+  },
+  {
+    "source": "flu",
+    "url": "https://medlineplus.gov/ency/article/000080.htm",
+    "chunk_id": "flu_6",
+    "text": "3 to 4 days but may last up to 8 days. Other symptoms get better in 7 to 14 days. The cough and tired feeling may last for weeks. Sometimes, the fever comes back. Some people may not feel like eating. The flu can make asthma, breathing problems, and other long-term (chronic) illnesses and conditions worse. Treatment: HOME CARE Acetaminophen (Tylenol) and ibuprofen (Advil, Motrin) help lower fever and relieve aches. Providers sometimes suggest that you use both types of medicine. Aspirin can also reduce fever and aches, but it may have potential serious side effects, such as stomach bleeding."
+  },
+  {
+    "source": "flu",
+    "url": "https://medlineplus.gov/ency/article/000080.htm",
+    "chunk_id": "flu_7",
+    "text": "medicine. Aspirin can also reduce fever and aches, but it may have potential serious side effects, such as stomach bleeding. So it's best to avoid using aspirin and it should never be given to treat flu in someone age 18 or less. A fever does not need to come all the way down to a normal temperature to make a difference in how a person feels. Most people feel at least somewhat better when their temperature drops by 1 degree Fahrenheit. Here are other ways to relieve symptoms: Over-the-counter cold medicines may make some of your symptoms better. Cough drops"
+  },
+  {
+    "source": "flu",
+    "url": "https://medlineplus.gov/ency/article/000080.htm",
+    "chunk_id": "flu_8",
+    "text": "Fahrenheit. Here are other ways to relieve symptoms: Over-the-counter cold medicines may make some of your symptoms better. Cough drops or throat sprays will help with your sore throat. Get plenty of rest. Drink plenty of liquids. Do not smoke or drink alcohol. Certain medicines should not be given to children, or only after a certain age. Do not give cold medicines to children younger than 4 years old. Only give cold medicines to children ages 4 to 6 years if your provider recommends it. Do not give ibuprofen to children younger than 6 months unless directed by your provider."
+  },
+  {
+    "source": "flu",
+    "url": "https://medlineplus.gov/ency/article/000080.htm",
+    "chunk_id": "flu_9",
+    "text": "if your provider recommends it. Do not give ibuprofen to children younger than 6 months unless directed by your provider. Aspirin should not be used in children and teens due to the risk of Reye syndrome . ANTIVIRAL DRUGS Most people with milder symptoms do not need to see a provider or take antiviral medicines. Your provider may recommend antiviral treatment if you are very sick with the flu. You also may be given antivirals if you are at risk for serious illness. Children at risk for a severe case of the flu may also need these medicines. The health"
+  },
+  {
+    "source": "flu",
+    "url": "https://medlineplus.gov/ency/article/000080.htm",
+    "chunk_id": "flu_10",
+    "text": "for serious illness. Children at risk for a severe case of the flu may also need these medicines. The health problems below may increase the risk of getting sicker with the flu: Being younger than age 5 years (those under age 2 are even more at risk) or age 65 or older Lung disease (including asthma ) Heart conditions (except high blood pressure) Kidney, liver, nerve, and muscle conditions Blood disorders (including sickle cell disease) Diabetes A weakened immune system due to diseases (such as HIV orÂ AIDS), radiation therapy, or certain medicines, including chemotherapy and corticosteroids Neurological diseases such"
+  },
+  {
+    "source": "flu",
+    "url": "https://medlineplus.gov/ency/article/000080.htm",
+    "chunk_id": "flu_11",
+    "text": "due to diseases (such as HIV orÂ AIDS), radiation therapy, or certain medicines, including chemotherapy and corticosteroids Neurological diseases such as cerebral palsy, epilepsy, intellectual disability, and muscular dystrophy Other long-term medical problems These medicines may shorten the time you have symptoms by about 1 day. They work better if you start taking them within 2 days of your first symptoms. Antibiotics are NOT used to treat the flu. Antibiotics kill bacteria. They won't work on the viruses that cause the flu. Prevention: You can take steps to avoid catching or spreading the flu. The best step is for everyone"
+  },
+  {
+    "source": "flu",
+    "url": "https://medlineplus.gov/ency/article/000080.htm",
+    "chunk_id": "flu_12",
+    "text": "the flu. Prevention: You can take steps to avoid catching or spreading the flu. The best step is for everyone age 6 months and older to get a flu vaccine. There are two types: Influenza (flu) vaccine (live, intranasal) : This vaccine is a nasal spray. People ages 2 through 49 years who are not pregnant may receive this vaccine. Influenza (flu) vaccine (inactivated or recombinant) : This vaccine is delivered by injection. Everyone 6 months and older can get the vaccine. To help prevent spreading the flu when you are sick, stay home and away from others both inside"
+  },
+  {
+    "source": "flu",
+    "url": "https://medlineplus.gov/ency/article/000080.htm",
+    "chunk_id": "flu_13",
+    "text": "the vaccine. To help prevent spreading the flu when you are sick, stay home and away from others both inside and outside your household. As much as possible, stay in a specific room and away from others in your home. Use a separate bathroom if you can. Keep track of your symptoms. You may receive instructions from your provider on how to check and report your symptoms. Wear a well-fitted face mask or respirator that fits well over your nose and mouth without gaps when you see your provider and anytime other people are in the same room with you."
+  },
+  {
+    "source": "flu",
+    "url": "https://medlineplus.gov/ency/article/000080.htm",
+    "chunk_id": "flu_14",
+    "text": "and mouth without gaps when you see your provider and anytime other people are in the same room with you. If you can't wear a mask, for example, due to breathing problems, people in your home should wear a mask if they need to be in the same room with you. Cover your mouth and nose with a tissue or your sleeve (not your hands) when coughing or sneezing. Throw away the tissue after use. Wash your hands many times a day with soap and running water for at least 20 seconds. Do this before eating or preparing food, after"
+  },
+  {
+    "source": "flu",
+    "url": "https://medlineplus.gov/ency/article/000080.htm",
+    "chunk_id": "flu_15",
+    "text": "a day with soap and running water for at least 20 seconds. Do this before eating or preparing food, after using the toilet, and after coughing, sneezing, or blowing your nose. Use an alcohol-based hand sanitizer (at least 60% alcohol) if soap and water are not available. Do not share personal items such as cups, eating utensils, towels, or bedding. Wash anything you have used in soap and water. Clean all \"high-touch\" areas in the home, such as doorknobs, bathroom and kitchen fixtures, toilets, phones, tablets, counters, and other surfaces. Use a household cleaning spray and follow instructions for use."
+  },
+  {
+    "source": "flu",
+    "url": "https://medlineplus.gov/ency/article/000080.htm",
+    "chunk_id": "flu_16",
+    "text": "and kitchen fixtures, toilets, phones, tablets, counters, and other surfaces. Use a household cleaning spray and follow instructions for use. Take steps for cleaner air in your home. You can do this by opening windows, turning on exhaust fans in your bathrooms and kitchen, using portable high-efficiency particulate air (HEPA) cleaners, and setting the fan on your furnace or air conditioning to \"on\" if you have central heating and cooling in your home. You can go back to your normal activities if both of the following things are true: For at least 24 hours, you have been feeling better and"
+  },
+  {
+    "source": "flu",
+    "url": "https://medlineplus.gov/ency/article/000080.htm",
+    "chunk_id": "flu_17",
+    "text": "activities if both of the following things are true: For at least 24 hours, you have been feeling better and your symptoms are improving AND You have not had a fever for at least 24 hours (and you are not using fever-reducing medicine) Even though you feel better, you may still be able to spread the virus to others for several days. For this reason, once you go back to your normal activities, continue to protect others from illness by taking these steps for 5 days: Practice good hygiene Take steps for cleaner air Wear a mask around others Practice"
+  },
+  {
+    "source": "flu",
+    "url": "https://medlineplus.gov/ency/article/000080.htm",
+    "chunk_id": "flu_18",
+    "text": "taking these steps for 5 days: Practice good hygiene Take steps for cleaner air Wear a mask around others Practice physical distancing by avoiding close contact and avoiding crowds If your fever returns after resuming normal activities, you should go back to staying home and away from others. Once your fever and symptoms improve for more than 24 hours, you can resume activities while taking steps to protect others for 5 more days."
   },
   {
     "source": "asthma",
     "url": "https://medlineplus.gov/ency/article/000141.htm",
     "chunk_id": "asthma_0",
-    "text": "Asthma is a chronic disease that causes the airways of the lungs to swell and become narrow. It leads to breathing difficulty such as wheezing, shortness of breath, chest tightness, and coughing."
+    "text": "Asthma is a chronic disease that causes the airways of the lungs to swell and become narrow. It leads to breathing difficulty such as wheezing, shortness of breath, chest tightness, and coughing. Causes: Asthma is caused by swelling (inflammation) in the airways. An asthma attack occurs when the lining of the air passages has become swollen and the muscles surrounding the airways become tight. This narrowing reduces the amount of air that can pass through the airway. Asthma symptoms can be caused by breathing in substances called allergens or triggers, or by other causes. Common asthma triggers include: Animals (pet"
+  },
+  {
+    "source": "asthma",
+    "url": "https://medlineplus.gov/ency/article/000141.htm",
+    "chunk_id": "asthma_1",
+    "text": "be caused by breathing in substances called allergens or triggers, or by other causes. Common asthma triggers include: Animals (pet hair or dander) Dust mites Certain medicines (such as aspirin and other nonsteroidal anti-inflammatory drugs [NSAIDs]) Changes in weather (most often cold weather) Chemicals in the air (pollution) or in food Physical activity Mold Pollen Respiratory infections, such as the common cold and many other viruses Strong emotions (stress) Tobacco or other inhalant that is smoked Substances in some workplaces can also trigger asthma symptoms, leading to occupational asthma . The most common triggers are wood dust, grain dust, animal"
+  },
+  {
+    "source": "asthma",
+    "url": "https://medlineplus.gov/ency/article/000141.htm",
+    "chunk_id": "asthma_2",
+    "text": "can also trigger asthma symptoms, leading to occupational asthma . The most common triggers are wood dust, grain dust, animal dander, fungi, or chemicals. Many people with asthma have a personal or family history of allergies , such as hay fever ( allergic rhinitis ) or eczema . Others have no history of allergies. Symptoms: Asthma symptoms vary from person to person. For example, you may have symptoms all the time or mostly during physical activity. Most people with asthma have attacks separated by symptom-free periods. Some people have long-term shortness of breath with episodes of increased shortness of breath."
+  },
+  {
+    "source": "asthma",
+    "url": "https://medlineplus.gov/ency/article/000141.htm",
+    "chunk_id": "asthma_3",
+    "text": "have attacks separated by symptom-free periods. Some people have long-term shortness of breath with episodes of increased shortness of breath. Wheezing or a cough may be the main symptom. Asthma attacks can last for minutes to days. An asthma attack may start suddenly or develop slowly over several hours or days. It may become dangerous if airflow is severely blocked. Symptoms of asthma include: Cough with or without phlegm (sputum) production Pulling in of the skin between the ribs when breathing ( intercostal retractions ) Shortness of breath that gets worse with exercise or activity Whistling sound or wheezing as"
+  },
+  {
+    "source": "asthma",
+    "url": "https://medlineplus.gov/ency/article/000141.htm",
+    "chunk_id": "asthma_4",
+    "text": "breathing ( intercostal retractions ) Shortness of breath that gets worse with exercise or activity Whistling sound or wheezing as you breathe Pain or tightness in the chest Difficulty sleeping Abnormal breathing pattern (breathing out takes more than twice as long as breathing in) Emergency symptoms that need prompt medical help include: Bluish color to the lips and face (cyanosis) Decreased level of alertness, such as severe drowsiness or confusion, during an asthma attack Extreme difficulty breathing Rapid pulse Severe anxiety due to shortness of breath Sweating Difficulty speaking Breathing temporarily stops Treatment: The goals of treatment are to: Control"
+  },
+  {
+    "source": "asthma",
+    "url": "https://medlineplus.gov/ency/article/000141.htm",
+    "chunk_id": "asthma_5",
+    "text": "anxiety due to shortness of breath Sweating Difficulty speaking Breathing temporarily stops Treatment: The goals of treatment are to: Control airway swelling Limit exposure to substances that may trigger your symptoms Help you to do normal activities without having asthma symptoms You and your provider should work as a team to manage your asthma symptoms. Follow your provider's instructions on taking medicines, removing asthma triggers, and tracking symptoms. MEDICINES FOR ASTHMA Your provider may prescribe two kinds of medicines for treating your asthma: Long term or control medicines to help prevent attacks Quick-relief (rescue) medicines for use during attacks LONG-TERM"
+  },
+  {
+    "source": "asthma",
+    "url": "https://medlineplus.gov/ency/article/000141.htm",
+    "chunk_id": "asthma_6",
+    "text": "treating your asthma: Long term or control medicines to help prevent attacks Quick-relief (rescue) medicines for use during attacks LONG-TERM MEDICINES These are also called maintenance or control medicines. They are used to prevent symptoms in people with moderate to severe asthma. You must take these medicines every day for them to work as well as possible. Take them even when you feel OK. Some long-term medicines are breathed in (inhaled), such as steroids and long-acting beta-agonists. Others are taken by mouth (orally). Your provider will prescribe the right medicine for you. QUICK-RELIEF MEDICINES These are also called rescue medicines."
+  },
+  {
+    "source": "asthma",
+    "url": "https://medlineplus.gov/ency/article/000141.htm",
+    "chunk_id": "asthma_7",
+    "text": "by mouth (orally). Your provider will prescribe the right medicine for you. QUICK-RELIEF MEDICINES These are also called rescue medicines. They are taken: For coughing, wheezing, trouble breathing, or other symptoms during an asthma attack Just before physical activity to help prevent asthma symptoms Tell your provider if you are using quick-relief medicines twice a week or more. If so, your asthma may not be under control. Your provider may change the dose or your daily asthma control medicine to reduce the use of quick-relief medicines. Quick-relief medicines include: Short-acting inhaled bronchodilators Oral corticosteroids for a severe asthma attack A"
+  },
+  {
+    "source": "asthma",
+    "url": "https://medlineplus.gov/ency/article/000141.htm",
+    "chunk_id": "asthma_8",
+    "text": "reduce the use of quick-relief medicines. Quick-relief medicines include: Short-acting inhaled bronchodilators Oral corticosteroids for a severe asthma attack A severe asthma attack requires a visit to your provider. You may also need a hospital stay. There, you will likely be given oxygen, breathing assistance, and medicines given through a vein ( IV ) or by a nebulizer. ASTHMA CARE AT HOME You can take steps to reduce the chance of asthma attacks: Know the asthma symptoms to watch for . Know how to take your peak flow reading and what it means. Know which triggers make your asthma worse"
+  },
+  {
+    "source": "asthma",
+    "url": "https://medlineplus.gov/ency/article/000141.htm",
+    "chunk_id": "asthma_9",
+    "text": ". Know how to take your peak flow reading and what it means. Know which triggers make your asthma worse and what to do when it happens. Know how to take care of your asthma before and during physical activity or exercise . Asthma action plans are written documents for managing asthma. An asthma action plan should include: Instructions for taking asthma medicines when your condition is stable A list of asthma triggers and how to avoid them How to recognize when your asthma is getting worse, what to do and when to contact your provider A peak flow meter"
+  },
+  {
+    "source": "asthma",
+    "url": "https://medlineplus.gov/ency/article/000141.htm",
+    "chunk_id": "asthma_10",
+    "text": "recognize when your asthma is getting worse, what to do and when to contact your provider A peak flow meter is a simple device to measure how quickly you can move air out of your lungs. It can help you see if an attack is coming, sometimes even before symptoms appear. Peak flow measurements help let you know when you need to take medicine or other action. Peak flow values of 50% to 80% of your best results are a sign of a moderate asthma attack. Numbers below 50% are a sign of a severe attack. Prevention: You can reduce"
+  },
+  {
+    "source": "asthma",
+    "url": "https://medlineplus.gov/ency/article/000141.htm",
+    "chunk_id": "asthma_11",
+    "text": "sign of a moderate asthma attack. Numbers below 50% are a sign of a severe attack. Prevention: You can reduce asthma symptoms by avoiding triggers and substances that irritate the airways. Cover bedding with allergy-proof casings to reduce exposure to dust mites. Remove carpets from bedrooms and vacuum regularly. Use only unscented detergents and cleaning materials in the home. Keep humidity levels low and fix leaks to reduce the growth of organisms such as mold. Keep the house clean and keep food in containers and out of bedrooms. This helps reduce the possibility of cockroaches. Body parts and droppings from"
+  },
+  {
+    "source": "asthma",
+    "url": "https://medlineplus.gov/ency/article/000141.htm",
+    "chunk_id": "asthma_12",
+    "text": "keep food in containers and out of bedrooms. This helps reduce the possibility of cockroaches. Body parts and droppings from cockroaches can trigger asthma attacks in some people. If someone is allergic to an animal that cannot be removed from the home, the animal should be kept out of the bedroom. Place filtering material over the heating/air conditioning outlets in your home to trap animal dander. Change the filter in furnaces and air conditioners often. Eliminate tobacco smoke from the home. This is the single most important thing a family can do to help someone with asthma. Smoking outside the"
+  },
+  {
+    "source": "asthma",
+    "url": "https://medlineplus.gov/ency/article/000141.htm",
+    "chunk_id": "asthma_13",
+    "text": "home. This is the single most important thing a family can do to help someone with asthma. Smoking outside the house is not enough. Family members and visitors who smoke outside carry smoke residue inside on their clothes and hair. This can trigger asthma symptoms. If you smoke, now is a good time to quit . Avoid air pollution, industrial dust, and irritating fumes as much as possible."
   },
   {
     "source": "anemia",
     "url": "https://medlineplus.gov/ency/article/000560.htm",
     "chunk_id": "anemia_0",
-    "text": "Anemia is a condition in which the body does not have enough healthy red blood cells. Red blood cells provide oxygen to body tissues. Different types of anemia include: Anemia due to vitamin B12 deficiency Anemia due to folate (folic acid) deficiency Anemia due to iron deficiency Anemia of chronic disease Hemolytic anemia Idiopathic aplastic anemia Megaloblastic anemia Pernicious anemia Sickle cell anemia Thalassemia Iron deficiency anemia is the most common type of anemia."
+    "text": "Anemia is a condition in which the body does not have enough healthy red blood cells. Red blood cells provide oxygen to body tissues. Different types of anemia include: Anemia due to vitamin B12 deficiency Anemia due to folate (folic acid) deficiency Anemia due to iron deficiency Anemia of chronic disease Hemolytic anemia Idiopathic aplastic anemia Megaloblastic anemia Pernicious anemia Sickle cell anemia Thalassemia Iron deficiency anemia is the most common type of anemia. Causes: Although many parts of the body help make red blood cells, most of the work is done in the bone marrow. Bone marrow is the"
+  },
+  {
+    "source": "anemia",
+    "url": "https://medlineplus.gov/ency/article/000560.htm",
+    "chunk_id": "anemia_1",
+    "text": "body help make red blood cells, most of the work is done in the bone marrow. Bone marrow is the soft tissue in the center of bones that helps form all blood cells. Healthy red blood cells last between 90 and 120 days. Parts of your body then remove old blood cells. A hormone called erythropoietin (EPO) made in your kidneys signals your bone marrow to make more red blood cells. Hemoglobin is the oxygen-carrying protein inside red blood cells. It gives red blood cells their color. People with anemia do not have enough hemoglobin. The body needs certain vitamins,"
+  },
+  {
+    "source": "anemia",
+    "url": "https://medlineplus.gov/ency/article/000560.htm",
+    "chunk_id": "anemia_2",
+    "text": "It gives red blood cells their color. People with anemia do not have enough hemoglobin. The body needs certain vitamins, minerals, and nutrients to make enough red blood cells. Iron, vitamin B12, and folic acid are three of the most important ones. The body may not have enough of these nutrients due to: Changes in the lining of the stomach or intestines that affect how well nutrients are absorbed (for example, celiac disease ) A dietÂ deficient in vitamins or minerals Surgery that removes part of the stomach or intestines Possible causes of anemia include: Iron deficiency Vitamin B12 deficiency"
+  },
+  {
+    "source": "anemia",
+    "url": "https://medlineplus.gov/ency/article/000560.htm",
+    "chunk_id": "anemia_3",
+    "text": "minerals Surgery that removes part of the stomach or intestines Possible causes of anemia include: Iron deficiency Vitamin B12 deficiency Folate deficiency Certain medicines Destruction of red blood cells earlier than normal (called hemolysis which may be caused by immune system problems) Long-term (chronic) diseases such as chronic kidney disease, cancer, ulcerative colitis , or rheumatoid arthritis Some forms of anemia, such as thalassemia or sickle cell anemia, which can be inherited Pregnancy Problems with the bone marrow such as lymphoma, leukemia , myelodysplasia, multiple myeloma , or aplastic anemia Slow blood loss (for example, from heavy menstrual periods or"
+  },
+  {
+    "source": "anemia",
+    "url": "https://medlineplus.gov/ency/article/000560.htm",
+    "chunk_id": "anemia_4",
+    "text": "lymphoma, leukemia , myelodysplasia, multiple myeloma , or aplastic anemia Slow blood loss (for example, from heavy menstrual periods or stomach ulcers ) Sudden heavy blood loss Symptoms: You may have no symptoms if the anemia is mild or if the problem develops slowly. Symptoms that may occur first include: Feeling weak or tired more often than usual, or with exercise Headaches Problems concentrating or thinking Irritability Loss of appetite Numbness and tingling of hands and feet If your anemia gets worse, symptoms may include: Blue color to the whites of your eyes Brittle nails Desire to eat ice or"
+  },
+  {
+    "source": "anemia",
+    "url": "https://medlineplus.gov/ency/article/000560.htm",
+    "chunk_id": "anemia_5",
+    "text": "gets worse, symptoms may include: Blue color to the whites of your eyes Brittle nails Desire to eat ice or other non-food things ( pica syndrome) Lightheadedness when you stand up Pale skin color Shortness of breath with mild activity or even at rest Sore or inflamed tongue Mouth ulcers Abnormal or increased menstrual bleeding Treatment: Treatment should be directed at the cause of the anemia, and may include: Blood transfusions Corticosteroids or other medicines that suppress the immune system Erythropoietin, a medicine that helps your bone marrow make more blood cells Supplements of iron, vitamin B12, folic acid, or"
+  },
+  {
+    "source": "anemia",
+    "url": "https://medlineplus.gov/ency/article/000560.htm",
+    "chunk_id": "anemia_6",
+    "text": "Erythropoietin, a medicine that helps your bone marrow make more blood cells Supplements of iron, vitamin B12, folic acid, or other vitamins and minerals Prevention: Eat a diet that contains at least the recommended daily allowance of vitamins and minerals."
   },
   {
     "source": "migraine",
     "url": "https://medlineplus.gov/ency/article/000709.htm",
     "chunk_id": "migraine_0",
-    "text": "A migraine is a type of headache. It may occur with symptoms such as nausea, vomiting, or sensitivity to light and sound. In most people, a throbbing pain is felt only on one side of the head."
+    "text": "A migraine is a type of headache. It may occur with symptoms such as nausea, vomiting, or sensitivity to light and sound. In most people, a throbbing pain is felt only on one side of the head. Causes: A migraine headache is caused by abnormal brain activity. This activity can be triggered by many things. But the exact chain of events remains unclear. Most medical experts believe the attack begins in the brain and involves nerve pathways and chemicals. The changes affect blood flow in the brain and surrounding tissues. Migraine headaches tend to first appear between the ages of"
+  },
+  {
+    "source": "migraine",
+    "url": "https://medlineplus.gov/ency/article/000709.htm",
+    "chunk_id": "migraine_1",
+    "text": "changes affect blood flow in the brain and surrounding tissues. Migraine headaches tend to first appear between the ages of 10 and 45. Sometimes, they begin earlier or later. Migraines may run in families. Migraines occur more often in women than men. Some women, but not all, have fewer migraines when they are pregnant. Migraine attacks may be triggered by any of the following: Caffeine withdrawal Changes in hormone levels during a woman's menstrual cycle or with the use of birth control pills Changes in sleep patterns, such as not getting enough sleep Drinking alcohol Exercise or other physical stress"
+  },
+  {
+    "source": "migraine",
+    "url": "https://medlineplus.gov/ency/article/000709.htm",
+    "chunk_id": "migraine_2",
+    "text": "birth control pills Changes in sleep patterns, such as not getting enough sleep Drinking alcohol Exercise or other physical stress Loud noises or bright lights Missed meals Odors or perfumes Smoking or exposure to smoke Stress and anxiety Migraines can also be triggered by certain foods. The most common are: Chocolate Dairy foods, especially certain cheeses Foods with monosodium glutamate (MSG) Foods with tyramine, which includes red wine, aged cheese, smoked fish, chicken livers, figs, and certain beans Fruits (avocado, banana, citrus fruit) Meats containing nitrates (bacon, hot dogs, salami, cured meats) Onions Peanuts and other nuts and seeds Processed,"
+  },
+  {
+    "source": "migraine",
+    "url": "https://medlineplus.gov/ency/article/000709.htm",
+    "chunk_id": "migraine_3",
+    "text": "banana, citrus fruit) Meats containing nitrates (bacon, hot dogs, salami, cured meats) Onions Peanuts and other nuts and seeds Processed, fermented, pickled, or marinated foods True migraine headaches are not a result of a brain tumor or other serious medical problem. Only your health care provider can determine if your symptoms are due to a migraine disorder or other condition. Symptoms: There are two main types of migraines: Migraine with aura (classic migraine) Migraine without aura (common migraine) An aura is a group of nervous system (neurologic) symptoms. These symptoms are considered a warning sign that a migraine is coming."
+  },
+  {
+    "source": "migraine",
+    "url": "https://medlineplus.gov/ency/article/000709.htm",
+    "chunk_id": "migraine_4",
+    "text": "is a group of nervous system (neurologic) symptoms. These symptoms are considered a warning sign that a migraine is coming. Most often, the vision is affected and can include any or all of the following: Temporary blind spots or colored spots Blurred vision Eye pain Seeing stars, zigzag lines, or flashing lights Tunnel vision (only able to see objects close to the center of the field of view) Other nervous system symptoms include yawning, difficulty concentrating, nausea, trouble finding the right words, dizziness, weakness, numbness, and tingling. Some of these symptoms are much less common with migraine headaches. If you"
+  },
+  {
+    "source": "migraine",
+    "url": "https://medlineplus.gov/ency/article/000709.htm",
+    "chunk_id": "migraine_5",
+    "text": "right words, dizziness, weakness, numbness, and tingling. Some of these symptoms are much less common with migraine headaches. If you have any of these symptoms, your provider will likely order tests to find the cause. An aura often occurs 10 to 15 minutes before the headache, but can occur just a few minutes to 24 hours before. A headache does not always follow an aura. The headaches usually: Start as a dull ache and get worse within minutes to hours Are throbbing, pounding, or pulsating Are worse on one side of the head with pain behind the eye or in"
+  },
+  {
+    "source": "migraine",
+    "url": "https://medlineplus.gov/ency/article/000709.htm",
+    "chunk_id": "migraine_6",
+    "text": "Are throbbing, pounding, or pulsating Are worse on one side of the head with pain behind the eye or in the back of the head and neck Last 4 to 72 hours Other symptoms that may occur with the headache include: Chills Increased urination Fatigue Loss of appetite Nausea and vomiting Sensitivity to light or sound Sweating Symptoms may linger, even after the migraine goes away. This is called a migraine hangover. Symptoms can include: Feeling mentally dull, like your thinking is not clear or sharp Needing more sleep Neck pain Treatment: There is no specific cure for migraine headaches."
+  },
+  {
+    "source": "migraine",
+    "url": "https://medlineplus.gov/ency/article/000709.htm",
+    "chunk_id": "migraine_7",
+    "text": "thinking is not clear or sharp Needing more sleep Neck pain Treatment: There is no specific cure for migraine headaches. The goal is to treat your migraine symptoms right away and to prevent symptoms by avoiding or changing your triggers. A key step is learning how to manage your migraines at home . A headache diary can help you identify your headache triggers. Then you and your provider can plan how to avoid these triggers. Lifestyle changes include: Healthier sleep habits, such as getting enough sleep and going to bed at the same time each night Healthier eating habits, including"
+  },
+  {
+    "source": "migraine",
+    "url": "https://medlineplus.gov/ency/article/000709.htm",
+    "chunk_id": "migraine_8",
+    "text": "habits, such as getting enough sleep and going to bed at the same time each night Healthier eating habits, including not skipping meals and avoiding your food triggers Managing stress Losing weight, if you're overweight If you have frequent migraines, your provider may prescribe medicine to reduce the number of attacks. You need to take the medicine every day for it to be effective. Medicines may include: Antidepressants Blood pressure medicines, such as beta blockers Anti-seizure medicines Calcitonin gene-related peptide (CGRP) agents Botulinum toxin type A (Botox) injections may also help reduce migraine attacks if they occur more than 15"
+  },
+  {
+    "source": "migraine",
+    "url": "https://medlineplus.gov/ency/article/000709.htm",
+    "chunk_id": "migraine_9",
+    "text": "(CGRP) agents Botulinum toxin type A (Botox) injections may also help reduce migraine attacks if they occur more than 15 days a month. Some people find relief with minerals and vitamins. Check with your provider to see if riboflavin or magnesium is right for you. Some of these medicines may not be safe for a pregnant or breast-feeding woman to take. TREATING AN ATTACK Hydration with fluids is often helpful, with or without the use of medicines. Other medicines are taken at the first sign of a migraine attack. Over-the-counter (OTC) pain medicines, such as acetaminophen, naproxen, ibuprofen, or aspirin"
+  },
+  {
+    "source": "migraine",
+    "url": "https://medlineplus.gov/ency/article/000709.htm",
+    "chunk_id": "migraine_10",
+    "text": "taken at the first sign of a migraine attack. Over-the-counter (OTC) pain medicines, such as acetaminophen, naproxen, ibuprofen, or aspirin are often helpful when your migraine is mild. Be aware that: Taking pain medicines more than 3 days a week may lead to rebound headaches. These are headaches that keep coming back due to overuse of pain medicine. Taking too much acetaminophen can damage your liver. Too much naproxen, ibuprofen or aspirin can irritate your stomach or damage your kidneys. If these treatments do not help, ask your provider about prescription medicines. These include nasal sprays, suppositories, or injections. The"
+  },
+  {
+    "source": "migraine",
+    "url": "https://medlineplus.gov/ency/article/000709.htm",
+    "chunk_id": "migraine_11",
+    "text": "If these treatments do not help, ask your provider about prescription medicines. These include nasal sprays, suppositories, or injections. The group of medicines most often used is called triptans. Some migraine medicines narrow the blood vessels. If you are at risk for having a heart attack or have heart disease, talk with your provider before using these medicines. Some migraine medicines should not be used by pregnant women. Talk with your provider about which medicine is right for you if you are pregnant or planning to become pregnant. Other medicines treat symptoms of migraine, such as nausea and vomiting. They"
+  },
+  {
+    "source": "migraine",
+    "url": "https://medlineplus.gov/ency/article/000709.htm",
+    "chunk_id": "migraine_12",
+    "text": "you are pregnant or planning to become pregnant. Other medicines treat symptoms of migraine, such as nausea and vomiting. They may be used alone or along with the other medicines that treat the migraine itself. Feverfew is an herb that may be used for migraines. It can be effective for some people. Before using feverfew, make sure your provider approves. Herbal remedies sold in drugstores and health food stores are not regulated. Work with a trained herbalist when selecting herbs. PREVENTING MIGRAINE HEADACHES If your migraines occur more than twice a week, your provider may recommend medicines to take every"
+  },
+  {
+    "source": "migraine",
+    "url": "https://medlineplus.gov/ency/article/000709.htm",
+    "chunk_id": "migraine_13",
+    "text": "PREVENTING MIGRAINE HEADACHES If your migraines occur more than twice a week, your provider may recommend medicines to take every day, which may help prevent your migraines. The goal is to reduce how often migraines occur and how severe the headache is. These types of medicines may help prevent or reduce migraine headaches: Medicines commonly used for high blood pressure (such as beta-blockers, angiotensin blockade agents, and calcium channel blockers) Certain medicines that are also used to treat depression Certain medicines also used to treat seizures, called anticonvulsants Botulinum toxin type A injections for select people Medicines that block calcitonin"
+  },
+  {
+    "source": "migraine",
+    "url": "https://medlineplus.gov/ency/article/000709.htm",
+    "chunk_id": "migraine_14",
+    "text": "medicines also used to treat seizures, called anticonvulsants Botulinum toxin type A injections for select people Medicines that block calcitonin gene-related peptide (CGRP) Newer devices that provide different kinds of nerve stimulation or magnetic stimulation are also being evaluated for treatment of migraine headaches. Their exact role in treating migraines remains unclear."
   },
   {
     "source": "obesity",
     "url": "https://medlineplus.gov/ency/article/007297.htm",
     "chunk_id": "obesity_0",
-    "text": "Obesity means weighing more than what is healthy for a given height. Obesity is a serious, chronic disease. It can lead to other health problems, including diabetes, heart disease, and some cancers."
+    "text": "Obesity means weighing more than what is healthy for a given height. Obesity is a serious, chronic disease. It can lead to other health problems, including diabetes, heart disease, and some cancers. Causes: Taking in more calories than your body uses can lead to obesity. This is because your body stores unused calories as fat. Obesity can be caused by: Eating more food than your body can use Drinking too much alcohol Not getting enough exercise Many people with obesity who lose large amounts of weight and gain it back think it is their fault. They blame themselves for not"
+  },
+  {
+    "source": "obesity",
+    "url": "https://medlineplus.gov/ency/article/007297.htm",
+    "chunk_id": "obesity_1",
+    "text": "who lose large amounts of weight and gain it back think it is their fault. They blame themselves for not having the willpower to keep the weight off. Many people regain more weight than they lost. Today, we know that biology is a big reason why some people cannot keep the weight off. Some people who live in the same place and eat the same foods develop obesity, while others do not. Our bodies have a complex system to keep our weight at a healthy level. In some people, this system does not work as well as it should. The"
+  },
+  {
+    "source": "obesity",
+    "url": "https://medlineplus.gov/ency/article/007297.htm",
+    "chunk_id": "obesity_2",
+    "text": "our weight at a healthy level. In some people, this system does not work as well as it should. The way we eat when we are children can affect the way we eat as adults. The way we eat over many years becomes a habit. It affects what we eat, when we eat, and how much we eat. We may feel that we are surrounded by things that make it easy to overeat and hard to stay active. Many people feel they do not have time to plan and make healthy meals. Many people do not have ready access to"
+  },
+  {
+    "source": "obesity",
+    "url": "https://medlineplus.gov/ency/article/007297.htm",
+    "chunk_id": "obesity_3",
+    "text": "feel they do not have time to plan and make healthy meals. Many people do not have ready access to healthy foods making it difficult to plan and make healthy meals. More people today work desk jobs compared to more active jobs in the past. People with little free time may have less time to exercise. The term eating disorder means a group of medical conditions that have an unhealthy focus on eating, dieting, losing or gaining weight, and body image. A person may have obesity, follow an unhealthy diet, and have an eating disorder all at the same time."
+  },
+  {
+    "source": "obesity",
+    "url": "https://medlineplus.gov/ency/article/007297.htm",
+    "chunk_id": "obesity_4",
+    "text": "image. A person may have obesity, follow an unhealthy diet, and have an eating disorder all at the same time. Sometimes, medical problems or treatments cause or contribute to weight gain, including: Underactive thyroid ( hypothyroidism ) Medicines such as birth control pills, certain antidepressants, and antipsychotics Other things that can cause weight gain are: Quitting smoking -- Many people who quit smoking gain 4 to 10 pounds (lb) or 2 to 5 kilograms (kg) in the first 6 months after quitting. Stress, anxiety, feeling sad, depression, or not sleeping well. Menopause -- Women may gain 12 to 15 lb"
+  },
+  {
+    "source": "obesity",
+    "url": "https://medlineplus.gov/ency/article/007297.htm",
+    "chunk_id": "obesity_5",
+    "text": "after quitting. Stress, anxiety, feeling sad, depression, or not sleeping well. Menopause -- Women may gain 12 to 15 lb (5.5 to 7 kg) during menopause. Pregnancy -- Women may not lose the weight they gained during pregnancy. Treatment: CHANGING YOUR LIFESTYLE An active lifestyle and plenty of exercise , along with healthy eating, is the safest way to lose weight. Even modest weight loss can improve your health. You may need a lot of support from family and friends. Your main goal should be to learn new, healthy ways of eating and make them part of your daily routine."
+  },
+  {
+    "source": "obesity",
+    "url": "https://medlineplus.gov/ency/article/007297.htm",
+    "chunk_id": "obesity_6",
+    "text": "Your main goal should be to learn new, healthy ways of eating and make them part of your daily routine. Many people find it hard to change their eating habits and behaviors . You may have practiced some habits for so long that you may not even know they are unhealthy, or you do them without thinking. You need to be motivated to make lifestyle changes. Make the behavior change part of your life over the long term. Know that it takes time to make and keep a change in your lifestyle. Work with your provider and dietitian to set"
+  },
+  {
+    "source": "obesity",
+    "url": "https://medlineplus.gov/ency/article/007297.htm",
+    "chunk_id": "obesity_7",
+    "text": "it takes time to make and keep a change in your lifestyle. Work with your provider and dietitian to set realistic, safe daily calorie counts that help you lose weight while staying healthy. Remember that if you drop weight slowly and steadily, you are more likely to keep it off. Your dietitian can teach you about: Healthy food choices at home and in restaurants Healthy snacks Reading nutrition labels and healthy grocery shopping New ways to prepare food Portion sizes Sweetened drinks Extreme diets (fewer than 1,100 calories per day) are not thought to be safe or to work very"
+  },
+  {
+    "source": "obesity",
+    "url": "https://medlineplus.gov/ency/article/007297.htm",
+    "chunk_id": "obesity_8",
+    "text": "Sweetened drinks Extreme diets (fewer than 1,100 calories per day) are not thought to be safe or to work very well. These types of diets often do not contain enough vitamins and minerals. Most people who lose weight this way return to overeating and develop obesity again. Learn ways to manage stress other than snacking. Examples may be meditation, yoga, or exercise. If you are depressed or stressed a lot, talk to your provider. MEDICINES AND HERBAL REMEDIES You may see ads for supplements and herbal remedies that claim they will help you lose weight. Some of these claims may"
+  },
+  {
+    "source": "obesity",
+    "url": "https://medlineplus.gov/ency/article/007297.htm",
+    "chunk_id": "obesity_9",
+    "text": "see ads for supplements and herbal remedies that claim they will help you lose weight. Some of these claims may not be true. And some of these supplements can have serious side effects. Talk to your provider before using them. You can discuss weight loss medicines with your provider. Many people lose at least 5 lb (2 kg) by taking these medicines, but they may regain the weight when they stop taking the medicine unless they have made lifestyle changes. Several medicines (pill or injection form) such as Zepbound, Xenical, Qsymia, Saxenda, Contrave, and Wegovy have been approved by the"
+  },
+  {
+    "source": "obesity",
+    "url": "https://medlineplus.gov/ency/article/007297.htm",
+    "chunk_id": "obesity_10",
+    "text": "Several medicines (pill or injection form) such as Zepbound, Xenical, Qsymia, Saxenda, Contrave, and Wegovy have been approved by the FDA for weight loss. Some are also approved for weight loss for children 12 years and older. SURGERY Weight-loss surgery (also called metabolic and bariatric surgery or MBS) can reduce the risk for certain diseases in people with severe obesity. These risks include: Arthritis Asthma Type 2 diabetes Gastroesophageal reflux disease (GERD) Heart disease High blood pressure Nonalcoholic fatty liver disease Obstructive sleep apnea Some cancers Stroke Surgery may help people who have had obesity for 5 years or more"
+  },
+  {
+    "source": "obesity",
+    "url": "https://medlineplus.gov/ency/article/007297.htm",
+    "chunk_id": "obesity_11",
+    "text": "disease Obstructive sleep apnea Some cancers Stroke Surgery may help people who have had obesity for 5 years or more and have not lost weight from other treatments, such as diet, exercise, or medicine. Providers often use body mass index (BMI) and health conditions such as type 2 diabetes and high blood pressure to determine which people are most likely to benefit from MBS. Surgery alone is not the answer for weight loss. It can train you to eat less, but you still have to do much of the work. You must be committed to diet, control portion sizes of"
+  },
+  {
+    "source": "obesity",
+    "url": "https://medlineplus.gov/ency/article/007297.htm",
+    "chunk_id": "obesity_12",
+    "text": "but you still have to do much of the work. You must be committed to diet, control portion sizes of what you eat, and exercise after surgery. Talk to your provider to learn if surgery is a good option for you. Weight-loss surgeries include: Laparoscopic gastric banding Gastric bypass surgery Sleeve gastrectomy Duodenal switch"
   },
   {
     "source": "sinusitis",
     "url": "https://medlineplus.gov/ency/article/000647.htm",
     "chunk_id": "sinusitis_0",
-    "text": "Sinusitis is present when the tissue lining the sinuses become swollen or inflamed. It occurs as the result of an inflammatory reaction or an infection from a virus, bacteria, or fungus."
+    "text": "Sinusitis is present when the tissue lining the sinuses become swollen or inflamed. It occurs as the result of an inflammatory reaction or an infection from a virus, bacteria, or fungus. Causes: The sinuses are air-filled spaces in the skull. They are located behind the forehead, nasal bones, cheeks, and eyes. Most of the time, mucus is able to drain out and air is able to flow through the sinuses. When the sinus openings become blocked or too much mucus builds up, bacteria and other germs can grow more easily. Sinusitis can occur from one of these conditions: Small hairs"
+  },
+  {
+    "source": "sinusitis",
+    "url": "https://medlineplus.gov/ency/article/000647.htm",
+    "chunk_id": "sinusitis_1",
+    "text": "builds up, bacteria and other germs can grow more easily. Sinusitis can occur from one of these conditions: Small hairs (cilia) in the sinuses fail to properly move mucus out. This may be due to some medical conditions. Colds and allergies may cause too much mucus to be made or the associated inflammation may block the opening of the sinuses. A deviated nasal septum, nasal bone spur, or nasal polyps may block the opening of the sinuses. Chronic infection can cause mucosal swelling and inflammation. There are three types of sinusitis: Acute sinusitis is when symptoms are present for 4"
+  },
+  {
+    "source": "sinusitis",
+    "url": "https://medlineplus.gov/ency/article/000647.htm",
+    "chunk_id": "sinusitis_2",
+    "text": "cause mucosal swelling and inflammation. There are three types of sinusitis: Acute sinusitis is when symptoms are present for 4 weeks or less. It is caused by viruses or bacteria growing in the sinuses. Chronic sinusitis is when the symptoms and swelling of the sinuses is present for longer than 3 months. It may be caused by bacteria or a fungus. Subacute sinusitis is when the symptoms and swelling is present from 1 to 3 months. The following may increase the risk that an adult or child will develop sinusitis: Allergic rhinitis or hay fever Cystic fibrosis Going to day"
+  },
+  {
+    "source": "sinusitis",
+    "url": "https://medlineplus.gov/ency/article/000647.htm",
+    "chunk_id": "sinusitis_3",
+    "text": "the risk that an adult or child will develop sinusitis: Allergic rhinitis or hay fever Cystic fibrosis Going to day care Diseases that prevent the cilia from working properly Changes in altitude (flying or scuba diving) Large adenoids Smoking Weakened immune system from HIV or chemotherapy Abnormal sinus structures Symptoms: The symptoms of acute sinusitis in adults very often follow a cold that does not get better or that gets worse after 7 to 10 days. Symptoms include: Bad breath or loss of smell Cough, often worse at night Fatigue and general feeling of being ill Fever Headache Pressure-like pain,"
+  },
+  {
+    "source": "sinusitis",
+    "url": "https://medlineplus.gov/ency/article/000647.htm",
+    "chunk_id": "sinusitis_4",
+    "text": "or loss of smell Cough, often worse at night Fatigue and general feeling of being ill Fever Headache Pressure-like pain, pain behind the eyes, toothache , or tenderness of the face Nasal stuffiness and discharge Sore throat and postnasal drip Symptoms of chronic sinusitis are the same as those of acute sinusitis. However, the symptoms tend to be milder and last longer than 12 weeks. Symptoms of sinusitis in children include: Cold or respiratory illness that has been getting better and then begins to get worse High fever, along with a darkened nasal discharge, that lasts for at least 3"
+  },
+  {
+    "source": "sinusitis",
+    "url": "https://medlineplus.gov/ency/article/000647.htm",
+    "chunk_id": "sinusitis_5",
+    "text": "and then begins to get worse High fever, along with a darkened nasal discharge, that lasts for at least 3 days Nasal discharge, with or without a cough, that has been present for more than 10 days and is not improving Treatment: SELF-CARE Try the following steps to reduce stuffiness in your sinuses: Apply a warm, moist washcloth to your face several times a day. Drink plenty of fluids to thin the mucus. Inhale steam 2 to 4 times per day (for example, while sitting in the bathroom with the shower running). Spray with nasal saline several times per day."
+  },
+  {
+    "source": "sinusitis",
+    "url": "https://medlineplus.gov/ency/article/000647.htm",
+    "chunk_id": "sinusitis_6",
+    "text": "day (for example, while sitting in the bathroom with the shower running). Spray with nasal saline several times per day. Use a humidifier. Use a Neti pot or saline squeeze bottle to flush the sinuses. Be careful with use of over-the-counter spray nasal decongestants such as oxymetazoline (Afrin) or phenylephrine (Neosynephrine). They may help at first, but using them for more than 3 to 5 days can make nasal stuffiness worse and lead to dependence. To help ease sinus pain or pressure: Avoid flying when you are congested. Avoid temperature extremes, sudden changes in temperature, and bending forward with your"
+  },
+  {
+    "source": "sinusitis",
+    "url": "https://medlineplus.gov/ency/article/000647.htm",
+    "chunk_id": "sinusitis_7",
+    "text": "or pressure: Avoid flying when you are congested. Avoid temperature extremes, sudden changes in temperature, and bending forward with your head down. Try acetaminophen, ibuprofen, or naproxen. MEDICINE AND OTHER TREATMENTS Most of the time, antibiotics are not needed for acute sinusitis. Most of these infections go away on their own. Even when antibiotics do help, they may only slightly reduce the time it takes for the infection to go away. Antibiotics are more likely to be prescribed sooner for: Children with nasal discharge, possibly with a cough, that is not getting better after 2 to 3 weeks Fever higher"
+  },
+  {
+    "source": "sinusitis",
+    "url": "https://medlineplus.gov/ency/article/000647.htm",
+    "chunk_id": "sinusitis_8",
+    "text": "Children with nasal discharge, possibly with a cough, that is not getting better after 2 to 3 weeks Fever higher than 102.2Â°F (39Â°C) Headache or pain in the face Severe swelling around the eyes Acute sinusitis should be treated for 5 to 10 days. Chronic sinusitis should be treated for 3 to 4 weeks. At some point, your provider will consider: Other prescription medicines More testing Referral to an ear, nose, and throat or allergy specialist Other treatments for sinusitis include: Allergy shots (immunotherapy) to help prevent the disease from returning Avoiding allergy triggers Nasal corticosteroid sprays and antihistamines to"
+  },
+  {
+    "source": "sinusitis",
+    "url": "https://medlineplus.gov/ency/article/000647.htm",
+    "chunk_id": "sinusitis_9",
+    "text": "include: Allergy shots (immunotherapy) to help prevent the disease from returning Avoiding allergy triggers Nasal corticosteroid sprays and antihistamines to decrease swelling, especially if there are nasal polyps or allergies Oral corticosteroids Surgery to enlarge the sinus opening and drain the sinuses may also be needed. You may consider this procedure if: Your symptoms do not go away after 3 months of treatment. You have more than 2 or 3 episodes of acute sinusitis each year. Most fungal sinus infections need surgery. Surgery to repair a deviated septum or nasal polyps may prevent the condition from returning. Prevention: The best"
+  },
+  {
+    "source": "sinusitis",
+    "url": "https://medlineplus.gov/ency/article/000647.htm",
+    "chunk_id": "sinusitis_10",
+    "text": "need surgery. Surgery to repair a deviated septum or nasal polyps may prevent the condition from returning. Prevention: The best way to prevent sinusitis is to avoid colds and flu or treat problems quickly. Control your allergies if you have them. Get an influenza vaccine each year. Reduce stress. Wash your hands often, particularly after shaking hands with others. Other tips for preventing sinusitis: Avoid smoke and pollutants. Drink plenty of fluids to increase moisture in your body. Take decongestants during an upper respiratory infection. Treat allergies quickly and appropriately. Use a humidifier to increase moisture in your nose and"
+  },
+  {
+    "source": "sinusitis",
+    "url": "https://medlineplus.gov/ency/article/000647.htm",
+    "chunk_id": "sinusitis_11",
+    "text": "during an upper respiratory infection. Treat allergies quickly and appropriately. Use a humidifier to increase moisture in your nose and sinuses."
   },
   {
     "source": "arrhythmias",
     "url": "https://medlineplus.gov/ency/article/001101.htm",
     "chunk_id": "arrhythmias_0",
-    "text": "An arrhythmia is a disorder of the heart rate (pulse) or heart rhythm. The heart can beat too fast (tachycardia), too slow (bradycardia), or irregularly. An arrhythmia can be harmless, a sign of other heart problems, or an immediate danger to your health."
+    "text": "An arrhythmia is a disorder of the heart rate (pulse) or heart rhythm. The heart can beat too fast (tachycardia), too slow (bradycardia), or irregularly. An arrhythmia can be harmless, a sign of other heart problems, or an immediate danger to your health. Causes: Normally, your heart works as a pump that brings blood to the lungs and the rest of the body. To help this happen, your heart has an electrical system that makes sure it contracts (squeezes) in an orderly way. The electrical impulse that signals your heart to contract begins in an area of the heart called"
+  },
+  {
+    "source": "arrhythmias",
+    "url": "https://medlineplus.gov/ency/article/001101.htm",
+    "chunk_id": "arrhythmias_1",
+    "text": "an orderly way. The electrical impulse that signals your heart to contract begins in an area of the heart called the sinoatrial node (also called the sinus node or SA node). This is your heart's natural pacemaker. The signal leaves the SA node and travels through the heart along a set electrical pathway. Different nerve messages signal your heart to beat slower or faster. Arrhythmias are caused by problems with the heart's electrical conduction system. Abnormal extra signals may occur. Electrical signals may be blocked or slowed. Electrical signals travel in new or different pathways through the heart. Some common"
+  },
+  {
+    "source": "arrhythmias",
+    "url": "https://medlineplus.gov/ency/article/001101.htm",
+    "chunk_id": "arrhythmias_2",
+    "text": "Electrical signals may be blocked or slowed. Electrical signals travel in new or different pathways through the heart. Some common causes of abnormal heartbeats are: Abnormal levels of potassium, magnesium, or other substances in the body Heart attack, or a damaged heart muscle from a past heart attack Heart disease that is present at birth (congenital) Heart failure or an enlarged heart Overactive thyroid gland Watch this video about: Arrhythmias Arrhythmias may also be caused by some substances or drugs, including: Alcohol or stimulant drugs Certain medicines Cigarette smoking (nicotine) Some of the more common abnormal heart rhythms are: Atrial"
+  },
+  {
+    "source": "arrhythmias",
+    "url": "https://medlineplus.gov/ency/article/001101.htm",
+    "chunk_id": "arrhythmias_3",
+    "text": "including: Alcohol or stimulant drugs Certain medicines Cigarette smoking (nicotine) Some of the more common abnormal heart rhythms are: Atrial fibrillation or flutter Atrioventricular nodal reentry tachycardia (AVNRT) Heart block or atrioventricular block Multifocal atrial tachycardia Paroxysmal supraventricular tachycardia Sick sinus syndrome Ventricular fibrillation or ventricular tachycardia Wolff-Parkinson-White syndrome Symptoms: When you have an arrhythmia, your heartbeat may be: Too slow (bradycardia) Too quick (tachycardia) Irregular, uneven, possibly with extra or skipped beats An arrhythmia may be present all of the time or it may come and go. You may or may not feel symptoms when the arrhythmia is present."
+  },
+  {
+    "source": "arrhythmias",
+    "url": "https://medlineplus.gov/ency/article/001101.htm",
+    "chunk_id": "arrhythmias_4",
+    "text": "the time or it may come and go. You may or may not feel symptoms when the arrhythmia is present. Or, you may only notice symptoms when you are more active. Symptoms can be very mild, or they may be severe or even life threatening. Common symptoms that may occur when the arrhythmia is present could include: Chest pain Fainting Lightheadedness , dizziness Paleness Palpitations (feeling your heart beat fast or irregularly) Shortness of breath Sweating Treatment: When an arrhythmia is serious, you may need urgent treatment to restore a normal rhythm. This may include: Electrical therapy (defibrillation or cardioversion)"
+  },
+  {
+    "source": "arrhythmias",
+    "url": "https://medlineplus.gov/ency/article/001101.htm",
+    "chunk_id": "arrhythmias_5",
+    "text": "is serious, you may need urgent treatment to restore a normal rhythm. This may include: Electrical therapy (defibrillation or cardioversion) Implanting a short-term heart pacemaker Medicines given through a vein or by mouth Sometimes, better treatment for your angina or heart failure will lower your chance of having an arrhythmia. Medicines called anti-arrhythmic drugs may be used: To prevent an arrhythmia from happening again To keep your heart rate from becoming too fast or too slow Some of these medicines can have side effects. Take them as prescribed by your provider. Do not stop taking the medicine or change the"
+  },
+  {
+    "source": "arrhythmias",
+    "url": "https://medlineplus.gov/ency/article/001101.htm",
+    "chunk_id": "arrhythmias_6",
+    "text": "can have side effects. Take them as prescribed by your provider. Do not stop taking the medicine or change the dose without first talking to your provider. Other treatments to prevent or treat abnormal heart rhythms include: Cardiac ablation , used to target areas in your heart that may be causing your heart rhythm problems An implantable cardioverter defibrillator , placed in people who are at high risk of sudden cardiac death Permanent pacemaker , a device that senses when your heart is beating too slowly. It sends a signal to your heart that makes your heart beat at the"
+  },
+  {
+    "source": "arrhythmias",
+    "url": "https://medlineplus.gov/ency/article/001101.htm",
+    "chunk_id": "arrhythmias_7",
+    "text": "your heart is beating too slowly. It sends a signal to your heart that makes your heart beat at the correct pace. Prevention: Taking steps to prevent coronary artery disease may reduce your chance of developing an arrhythmia."
   },
   {
     "source": "epilepsy",
     "url": "https://medlineplus.gov/ency/article/000694.htm",
     "chunk_id": "epilepsy_0",
-    "text": "Epilepsy is a brain disorder in which a person has repeated seizures over time. Seizures are episodes of uncontrolled and abnormal electrical activity of brain cells that may cause changes in attention or behavior, such as bodily movements."
+    "text": "Epilepsy is a brain disorder in which a person has repeated seizures over time. Seizures are episodes of uncontrolled and abnormal electrical activity of brain cells that may cause changes in attention or behavior, such as bodily movements. Causes: Epilepsy occurs when changes in the brain cause it to be too excitable or irritable. As a result, the brain cells send out abnormal electrical signals. This leads to repeated, unpredictable seizures. (A single seizure that does not happen again is not epilepsy.) Epilepsy may be due to a medical condition or injury that affects the brain. Or, the cause may"
+  },
+  {
+    "source": "epilepsy",
+    "url": "https://medlineplus.gov/ency/article/000694.htm",
+    "chunk_id": "epilepsy_1",
+    "text": "not epilepsy.) Epilepsy may be due to a medical condition or injury that affects the brain. Or, the cause may be unknown (idiopathic). Common causes of epilepsy include: Stroke or transient ischemic attack (TIA) Dementia , such as Alzheimer disease Traumatic brain injury Infections, including brain abscess , meningitis , encephalitis , and HIV/AIDS Brain problems that are present at birth (congenital brain defect) Brain injury that occurs during or near birth Metabolism disorders present at birth (such as phenylketonuria ) Brain tumor Abnormal blood vessels in the brain Other illness that damages or destroys brain tissue Seizure disorders that"
+  },
+  {
+    "source": "epilepsy",
+    "url": "https://medlineplus.gov/ency/article/000694.htm",
+    "chunk_id": "epilepsy_2",
+    "text": ") Brain tumor Abnormal blood vessels in the brain Other illness that damages or destroys brain tissue Seizure disorders that run in families (hereditary epilepsy) Epileptic seizures can happen to anyone at any age. However, they're more common in young children and people age 65 years and older. There may be a family history of seizures or epilepsy. Symptoms: Symptoms vary from person to person. Some people may have simple staring spells. Others have violent shaking and loss of alertness (convulsion). The type of seizure depends on the part of the brain that is affected. Most of the time, for"
+  },
+  {
+    "source": "epilepsy",
+    "url": "https://medlineplus.gov/ency/article/000694.htm",
+    "chunk_id": "epilepsy_3",
+    "text": "(convulsion). The type of seizure depends on the part of the brain that is affected. Most of the time, for people with epilepsy, their seizures are similar to ones before it. Some people with epilepsy have a strange sensation before each seizure. Sensations may be tingling, smelling an odor that is not actually there, or emotional changes. This is called an aura. Your health care provider can tell you more about the specific type of seizure you may have: Absence seizures (also called non-motor seizures) include seizures involving a change in behavior but without changes in motor movement (such as"
+  },
+  {
+    "source": "epilepsy",
+    "url": "https://medlineplus.gov/ency/article/000694.htm",
+    "chunk_id": "epilepsy_4",
+    "text": "seizures (also called non-motor seizures) include seizures involving a change in behavior but without changes in motor movement (such as staring spells). They may occur along with generalized seizures. Focal onset seizures may occur with no change in awareness. Symptoms depend on what part of the brain is affected. These seizures may spread to the whole brain. Generalized seizures involve both sides of the brain and cause impaired awareness. Abnormal movements involving the whole body are often present. Clenching of the jaw and losing control of the urine or bowels may occur. Treatment: Treatment for epilepsy includes taking medicines, lifestyle"
+  },
+  {
+    "source": "epilepsy",
+    "url": "https://medlineplus.gov/ency/article/000694.htm",
+    "chunk_id": "epilepsy_5",
+    "text": "the jaw and losing control of the urine or bowels may occur. Treatment: Treatment for epilepsy includes taking medicines, lifestyle changes, and sometimes surgery. If epilepsy is due to a tumor, abnormal blood vessels, or bleeding in the brain, surgery to treat these disorders may make the seizures stop. Medicines to prevent seizures, called antiseizure medicines (also called anticonvulsants or antiepileptic medicines), may reduce the number of future seizures: These medicines are taken by mouth. Which type you are prescribed depends on the type of seizures you have. Your dosage may need to be changed from time to time. You"
+  },
+  {
+    "source": "epilepsy",
+    "url": "https://medlineplus.gov/ency/article/000694.htm",
+    "chunk_id": "epilepsy_6",
+    "text": "depends on the type of seizures you have. Your dosage may need to be changed from time to time. You may need regular blood tests to check for side effects. Always take your medicine on time and as directed. Missing a dose can cause you to have a seizure. Do not stop taking or change medicines on your own. Talk to your provider first. Many epilepsy medicines cause birth defects. Women who plan to become pregnant should tell their provider in advance in order to adjust medicines. Many epilepsy medicines may affect the health of your bones. Talk to your"
+  },
+  {
+    "source": "epilepsy",
+    "url": "https://medlineplus.gov/ency/article/000694.htm",
+    "chunk_id": "epilepsy_7",
+    "text": "in advance in order to adjust medicines. Many epilepsy medicines may affect the health of your bones. Talk to your provider about whether you need vitamins and other supplements. Epilepsy that does not get better after 2 or 3 anti-seizure medicines have been tried is called medically refractory epilepsy. In this case, your provider may recommend surgery to: Remove the abnormal brain cells causing the seizures. Place a vagal nerve stimulator (VNS). This device is similar to a heart pacemaker. It can help reduce the number of seizures. Some children are placed on a special diet to help prevent seizures."
+  },
+  {
+    "source": "epilepsy",
+    "url": "https://medlineplus.gov/ency/article/000694.htm",
+    "chunk_id": "epilepsy_8",
+    "text": "It can help reduce the number of seizures. Some children are placed on a special diet to help prevent seizures. The most popular one is the ketogenic diet. A diet low in carbohydrates, such as the Atkins diet, may also be helpful in some adults. Be sure to discuss these options with your provider before trying them. Lifestyle or medical changes can increase the risk for a seizure in adults and children with epilepsy. Talk with your provider about: New prescribed medicines, vitamins, or supplements Emotional stress Illness, especially infection Lack of sleep Pregnancy Skipping doses of epilepsy medicines Use"
+  },
+  {
+    "source": "epilepsy",
+    "url": "https://medlineplus.gov/ency/article/000694.htm",
+    "chunk_id": "epilepsy_9",
+    "text": "prescribed medicines, vitamins, or supplements Emotional stress Illness, especially infection Lack of sleep Pregnancy Skipping doses of epilepsy medicines Use of alcohol or other recreational drugs Exposure to flickering lights or stimuli Hyperventilation Other considerations: People with epilepsy should wear medical alert jewelry so that prompt treatment can be obtained if a seizure occurs. People with poorly controlled epilepsy should not drive. Check your state's law about which people with a history of seizures are allowed to drive. Do not use machinery or do activities that require constant awareness, such as climbing to high places, biking, and swimming alone. Having"
+  },
+  {
+    "source": "epilepsy",
+    "url": "https://medlineplus.gov/ency/article/000694.htm",
+    "chunk_id": "epilepsy_10",
+    "text": "use machinery or do activities that require constant awareness, such as climbing to high places, biking, and swimming alone. Having a seizure during these activities can result in serious injury and death. Prevention: There is no known way to prevent epilepsy. Proper diet and sleep, and staying away from alcohol and illegal drugs may decrease the likelihood of triggering seizures in people with epilepsy. You can reduce your risk for a head injury by wearing a helmet during risky activities. This can lessen the likelihood of a brain injury that leads to seizures and epilepsy."
+  },
+  {
+    "source": "epilepsy",
+    "url": "https://medlineplus.gov/ency/article/000694.htm",
+    "chunk_id": "epilepsy_11",
+    "text": "This can lessen the likelihood of a brain injury that leads to seizures and epilepsy."
   }
 ]

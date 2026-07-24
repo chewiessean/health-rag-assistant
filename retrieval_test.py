@@ -3,7 +3,7 @@ import chromadb
 
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
-client = chromadb.PersistentClient(path="./chromadb")
+client = chromadb.PersistentClient(path="./chroma_db")
 collection = client.get_or_create_collection(name="health_articles")
 
 question = "I have severe headache and nausea"

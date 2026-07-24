@@ -16,7 +16,7 @@ def chunk_text(text, max_words=100, overlap_words=20):
 
     return chunks
 
-with open("health_data.json", "r", encoding="utf-8") as f:
+with open("data/health_data.json", "r", encoding="utf-8") as f:
     raw_data = json.load(f)
 
 all_chunks = []
@@ -38,5 +38,5 @@ for chunk in all_chunks:
     print(f"[{chunk['chunk_id']}] ({len(chunk['text'].split())} words)")
     print(f"  {chunk['text']}\n")
 
-with open("health_data.json", "w", encoding="utf-8") as f:
+with open("data/health_data.json", "w", encoding="utf-8") as f:
     json.dump(all_chunks, f, ensure_ascii=False, indent=2)
